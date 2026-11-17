@@ -82,5 +82,5 @@ Parece que ele não vem de novo.
 </pre>
 
 <div class="warning">
-Tente não confundir また com まだ (você vai confundir また com まだ 100% das vezes, do mesmo jeito que a gente embaralha "mas" e "mais").
+Tente não confundir また com まだ (com certeza você vai confundir また com まだ, do mesmo jeito que a gente embaralha "mas" e "mais").
 </div>

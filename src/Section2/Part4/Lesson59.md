@@ -11,7 +11,7 @@ O だって exclamativo aparece na frente de uma frase e é usado como uma inter
 "<b>Mas é que</b> eu tô cansado..."
 
 <b>だって</b>おかしいじゃないですか。
-<b>É que</b>, não acha estranho?
+<b>Mas</b> não é estranho?
 </pre>
 
 O outro だって é uma versão mais informal de も/でも quando usado depois de substantivos com o sentido de "até". 

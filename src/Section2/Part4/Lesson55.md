@@ -1,4 +1,4 @@
-# Reflexos com 自分
+# Reflexivos com 自分
 
 Em português, você não diz "O Jim quebrou o relógio do Jim" quando só existe um Jim. Você diz "O Jim quebrou o relógio dele" (que fica ambíguo: pode ser de outra pessoa) ou "O Jim quebrou o **próprio** relógio". Você não diz "O Jim machucou o Jim", nem "O Jim machucou ele"; você diz "O Jim **se** machucou" ou "machucou **a si mesmo**".
 

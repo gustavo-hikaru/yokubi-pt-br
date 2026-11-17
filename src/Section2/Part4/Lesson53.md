@@ -16,7 +16,7 @@ Fazer (alguém) comer
 </pre>
 
 <div class="warning">
-Choque de realidade: existem exceções e formas curtas/coloquiais (書かせる -> 書かす). Você não precisa se preocupar muito com elas, mas saiba que existem. 
+Na real: existem exceções e formas curtas/coloquiais (書かせる -> 書かす). Você não precisa se preocupar muito com elas, mas saiba que existem. 
 </div>
 
 Quando usamos um verbo na forma causativa, o causador/agente (= quem "força" ou "permite") costuma ser marcado por は ou が. O causado/alvo (= quem é "forçado" ou "autorizado") pode ser marcado com に ou を. A escolha entre essas duas partículas depende do verbo usado.

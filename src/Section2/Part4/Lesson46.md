@@ -40,7 +40,7 @@ Ele só dorme (não faz nada além de dormir)
 
 <pre>
 戦いはまだ始まった<b>ばかり</b>だ。
-A batalha acabou de começar.
+A batalha mal começou.
 </pre>
 
 しか é usado com afirmações negativas para transmitir o mesmo significado de だけ, mas com o foco em tudo o mais que não é o que está sendo marcado.

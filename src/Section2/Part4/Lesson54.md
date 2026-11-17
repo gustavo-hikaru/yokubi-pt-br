@@ -12,9 +12,9 @@ Eu vou me <b>tornar</b> o rei dos piratas!
 <b>Fica</b> 1500 ienes.
 </pre>
 
-に é usado como a partícula que marca o substantivo (ou coisa) em que o sujeito "se torna". Como sempre, a ordem das partículas pode mudar a ênfase, como vemos na primeira frase de exemplo acima.
+に é usado como a partícula que marca o substantivo (ou coisa) em que o sujeito se transforma. Como sempre, a ordem das partículas pode mudar a ênfase, como vemos na primeira frase de exemplo acima.
 
-Na realidade, porém, なる na verdade recebe um advérbio, e não só substantivos marcados com に. Acontece que os substantivos (e adjetivos な) podem se tornar adverbiais quando に é usado.
+Na realidade, porém, なる recebe um advérbio, e não só substantivos marcados com に. Acontece que os substantivos (e adjetivos な) podem se tornar adverbiais quando に é usado.
 
 Podemos confirmar isso quando tentamos usar なる com adjetivos い. Para isso, precisamos transformá-los em advérbios assim:
 
@@ -39,7 +39,7 @@ Até verbos podem ser combinados com なる. Os verbos na forma negativa se conj
 ここで下がれば本当に道がわから<b>なくなる</b>。
 Se descermos por aqui, <b>vamos acabar sem</b> conseguir encontrar o caminho.
 
-見えなかったものが見える<b>ようになる</b>
+見えなかったものが見える<b>ようになる</b>。
 As coisas que não eram visíveis <b>passam a</b> ser visíveis
 </pre>
 
@@ -58,6 +58,6 @@ Todo mundo arregalou os olhos (lit: "fez os olhos redondos")
 彼女は笑みを深<b>くする</b>。
 Ela abriu ainda mais o sorriso (lit: "fez o sorriso mais profundo")
 
-美味しいものは人を幸せ<b>にする</b>
+美味しいものは人を幸せ<b>にする</b>。
 Coisas gostosas fazem as pessoas felizes (lit: "transformam as pessoas em felicidade")
 </pre>

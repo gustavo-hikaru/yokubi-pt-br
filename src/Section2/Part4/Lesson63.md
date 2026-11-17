@@ -8,7 +8,7 @@ A maioria deles são partículas de lista ou partículas enfáticas que são dif
 
 <pre>
 親<b>なり</b>教師<b>なり</b>の指導が必要だ
-É importante a orientação de um pai ou de um professor (seja dos pais, seja de um professor).
+É necessária a orientação de um pai ou de um professor (seja dos pais, seja de um professor).
 </pre>
 
 きり/っきり é um sufixo auxiliar com três significados.

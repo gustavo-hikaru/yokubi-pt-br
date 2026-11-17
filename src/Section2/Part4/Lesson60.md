@@ -52,7 +52,7 @@ Todos que estavam ali <b>devem</b> ter pensado isso.
 
 <pre>
 この場から立ち去る<b>べきだ</b>。
-<b>Seria bom</b> sair deste lugar.
+<b>Deveríamos</b> sair deste lugar.
 
 わからないことは聞く<b>べきだ</b>。
 <b>Você deve</b> perguntar sobre as coisas que não entende.

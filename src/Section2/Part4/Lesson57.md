@@ -18,7 +18,7 @@ Quando algo é feito com てしまう, a implicação é que não dá para volta
 
 <pre>
 まず最初に言っ<b>ておき</b>たいことがある。
-Primeiro, há uma coisa que eu preciso (já deixar) dizer a você.
+Antes de tudo, quero deixar uma coisa clara.
 
 俺はただ知って<b>おきたい</b>だけなのだ。
 É só que eu quero ficar sabendo (= para a minha própria tranquilidade)
