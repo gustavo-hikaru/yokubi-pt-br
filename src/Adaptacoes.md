@@ -41,7 +41,7 @@ Termos japoneses (ichidan, godan, keigo, ら抜き etc.) foram mantidos.
 Estes são os pontos em que o original comparava o japonês com o inglês e a comparação foi **trocada** (e não só traduzida).
 
 - **Lição 0.** Ordem SOV × SVO continua valendo para o português. A explicação do sujeito oculto foi ajustada: o português também omite o sujeito ("Comi uma maçã"), mas o japonês vai bem além.
-- **Lição 1.** Acrescentado que だ/です cobrem o "ser", **não** o "estar" (ser × estar não existe em japonês). Contraste com o pretérito perfeito e imperfeito do português. O futuro com o presente ("amanhã eu vou") foi usado como paralelo.
+- **Lição 1.** Acrescentado que o japonês não distingue ser × estar: だ/です cobrem os dois na maioria dos casos (元気です = "estou bem"), e o "estar" de lugar fica com いる/ある. Contraste com o pretérito perfeito e imperfeito do português. O futuro com o presente ("amanhã eu viajo") e com "ir + infinitivo" ("amanhã eu vou viajar") foi usado como paralelo.
 - **Lição 2.** O contraste com o inglês passou a ser com a **concordância de gênero e número** do português e com os pronomes que mudam de caso (ele/o/lhe). Palavras compostas (guarda-chuva) e o sufixo 者 comparado ao "-dor" de "pesquisador".
 - **Lição 3.** Em vez de "ordem das palavras do inglês", o português: ordem + preposições + forma dos pronomes. Citada a "função sintática". O foco de が/は foi comparado com "é o gato que..." e com o par "o"/"um".
 - **Lição 4.** Verbos irregulares do inglês (read, speak) trocados pelos do português (ser, ter, fazer). Comparação ichidan/godan com as três conjugações (-ar, -er, -ir). 見られたくなかった ganhou uma glosa ("não queria ser visto").
@@ -49,7 +49,7 @@ Estes são os pontos em que o original comparava o japonês com o inglês e a co
 - **Lições 6 a 9.** Negação com "não" × verbo conjugado; adjetivos sem concordância; -eza/-dade para さ; "gosta **de**" × "ama" como exemplo de preposição arbitrária; "pegar o trem" no lugar do exemplo do verbo transitivo; irregulares do português (fazer → fiz, pôr → pus).
 - **Lição 10.** Esclarecido que a forma て **não** é o gerúndio nem o particípio do português. O provérbio "腹が減っては戦はできない" ganhou o equivalente "saco vazio não para em pé".
 - **Lição 11.** "He taught **me**" virou "Ele **me** ensinou"; 食べないで ≈ "sem comer".
-- **Lição 12.** O imperativo do português entrou na comparação; "nikuman" pedido com "Me dá um nikuman, por favor".
+- **Lição 12.** O imperativo do português entrou na comparação; "nikuman" pedido com "Um nikuman, por favor".
 - **Lição 14.** Orações relativas: o português usa pronome relativo (que, onde, cujo); o japonês não. Termo "oração subordinada adjetiva".
 - **Lição 15.** Acrescentado que o português não tem a distinção adjetivo い × な; "adjunto adnominal" para "atributivo".
 - **Lição 16.** "Fazer uma pesquisa = pesquisar" como paralelo dos verbos する; dois irregulares em japonês × dezenas em português.
@@ -107,6 +107,8 @@ Em vários exemplos, a tradução em português foi escolhida para soar natural 
 - **Lição 60:** "見つからないわけだ" foi traduzido como "não é de se estranhar que... não seja encontrada" (que é o sentido de わけだ), e não como "won't be found".
 - **Lição 20:** "寒い" aparece como "Está frio" em vez de "It is cold" (mesmo sentido; só mudou a forma).
 - **Lição 12:** "食べ**て**、少年" virou "Come, garoto." (imperativo informal).
+- **Lição 60:** "この場から立ち去るべきだ" ficou "Deveríamos sair deste lugar" (o original diz "It would be good to leave", mais fraco que べき).
+- **Lição 63:** "指導が必要だ" ficou "É necessária a orientação..." (o original diz "important"; 必要 é "necessário").
 
 ## 4. Trechos acrescentados
 

@@ -4,7 +4,7 @@ Esta é uma lista de perguntas que as pessoas fazem regularmente **sobre o guia*
 
 (As perguntas abaixo são do guia original em inglês, traduzidas. Para saber o que mudou nesta versão em português, veja [Adaptações para o português](./Adaptacoes.md).)
 
-### Por que vocês roubaram o trabalho de outra pessoa?
+### Por que você roubou o trabalho de outra pessoa?
 
 Não é segredo que o Yokubi é quase inteiramente baseado no [sakubi](https://sakubi.neocities.org/). A maioria das lições, tópicos e muitas das formulações foram copiadas diretamente, reformuladas e reorganizadas, mas o cerne do guia continua o mesmo. 
 
@@ -20,7 +20,7 @@ Eu originalmente tentei acompanhar todas as mudanças, pequenas e grandes, em re
 
 - As lições foram divididas em páginas individuais em formato mdbook, em vez de uma única página web independente. Isso facilita navegar e compartilhar lições individuais com outros estudantes.
 - Abandonei termos como "uma forma" e "cinco formas" em favor da terminologia ichidan e godan para os verbos
-- Alguns pontos de lições e de gramática foram divididos em lições separadas. O Sakubi tem 54 lições. O Yokubi tem 63. 
+- Algumas lições e pontos gramaticais foram divididos em lições separadas. O Sakubi tem 54 lições. O Yokubi tem 63. 
 - Adicionei uma nova lição sobre o estado de ser negativo
 - Adicionei uma lição 0 sobre a anatomia das frases em japonês
 - Várias lições foram reorganizadas e reordenadas para ter uma ordenação de prioridade mais razoável quanto à importância
