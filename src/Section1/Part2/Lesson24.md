@@ -61,6 +61,6 @@ Observação: não caia na armadilha de achar que, se uma frase usa が, ela é 
 | (XがYを)出す         | (Xが)出る           |
 | pôr algo para fora   | sair                |
 
-Em português, os pares transitivo/intransitivo com verbos diferentes são raros (levantar/subir é um dos mais citados), porque muitas vezes o mesmo verbo mostra os dois usos, ou ganha um "se": "Eu estourei o balão" (ação transitiva) e "O balão estourou" (ação intransitiva); "Eu abri a porta" e "A porta se abriu".
+Em português, os pares transitivo/intransitivo com verbos diferentes são raros (levantar/subir é um exemplo), porque muitas vezes o mesmo verbo mostra os dois usos, ou ganha um "se": "Eu estourei o balão" (ação transitiva) e "O balão estourou" (ação intransitiva); "Eu abri a porta" e "A porta se abriu".
 
 É importante lembrar a distinção entre um verbo intransitivo e um verbo transitivo conjugado na passiva. Um verbo intransitivo ainda descreve uma ação executada ativamente por um sujeito, enquanto um verbo transitivo na passiva descreve uma ação que o sujeito recebe passivamente, pela influência de alguém ou de alguma coisa.  

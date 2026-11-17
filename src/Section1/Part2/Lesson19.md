@@ -1,6 +1,6 @@
 # Perguntas com か
 
-As perguntas em japonês se formam pelo tom de voz, e às vezes terminam com か ou の, dependendo também do nível de polidez. (Nisso o japonês é parecido com o português: "Tá quente?" e "Está quente." só mudam na entonação, sem inverter a ordem das palavras.)
+As perguntas em japonês se formam pelo tom de voz, e às vezes terminam com か ou の, dependendo também do nível de polidez. (Nisso o japonês é parecido com o português: "Está quente?" e "Está quente." só mudam na entonação, sem inverter a ordem das palavras.)
 
 Esta lição vai cobrir as perguntas de sim ou não com か. Cobriremos as perguntas com palavras interrogativas ("o que", "quem", "onde") e as perguntas com の mais adiante.
 

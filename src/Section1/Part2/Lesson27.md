@@ -66,7 +66,7 @@ Esse と também é comumente usado na narração para descrever uma série de e
 
 <pre>
 少し歩く<b>と</b>、開けた場所に出た。
-<b>Depois de</b> caminhar um pouco, eles chegaram a uma clareira.
+<b>Depois de</b> caminhar um pouco, eles chegaram a um lugar aberto.
 </pre>
 
 O último condicional desta lição é なら. なら é um condicional estritamente hipotético. Ele implica que a condição é assumida como verdadeira no mundo hipotético em que a afirmação acontece. Isso significa que, quando você diz X なら Y, o significado é próximo de algo como "Se considerarmos o caso de X ser verdade, então Y", mas isso não soa tão prolixo quanto em português. É uma forma muito comum de formular as coisas.

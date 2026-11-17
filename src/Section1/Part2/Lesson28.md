@@ -1,6 +1,6 @@
 # Revisão dos verbos
 
-Finalmente encontramos todos os radicais básicos dos verbos godan, então este é um bom momento para revisar o que aprendemos. Por favor, não tente memorizar isto. Saber que essas ideias existem já basta. Se seus olhos embaçarem, relaxe. Se você não consegue, siga em frente.
+Finalmente encontramos todos os radicais básicos dos verbos godan, então este é um bom momento para revisar o que aprendemos. Por favor, não tente memorizar isto. Saber que essas ideias existem já basta. Se você começar a boiar, relaxe. Se você não consegue, siga em frente.
 
 Os nomes dados são só descrições/lembretes simples da forma, e não nomes gramaticais propriamente ditos. O nome em japonês e a respectiva terminologia correta serão apresentados para os curiosos, mas você não precisa lembrar deles. Se um radical ou forma for mencionado no resto do guia, será com o descritor simples em português, e não com o nome japonês.
 
