@@ -4,7 +4,7 @@ Vamos começar pelas frases no formato "A é B". O japonês tem duas palavras b�
 
 As duas cópulas do japonês são だ e です. です é mais polida do que だ. Apesar de ambas serem cópulas, o uso delas pode ser flexível e, às vezes, opcional: você pode omiti-las por completo e ainda assim transmitir uma relação do tipo "A é B". Principalmente だ costuma ser omitido no fim de frases de conversa no japonês moderno.
 
-Uma observação para quem fala português: だ e です cobrem o "ser" ("é um gato"), mas **não** correspondem ao "estar" ("está cansado"). Essa distinção entre ser e estar não existe em japonês. A diferença entre o permanente e o temporário, quando importa, vem do contexto ou de outras construções que veremos mais adiante. Em compensação, o japonês tem outro verbo para "existir/estar em algum lugar", que aprenderemos na [Lição 18](./Lesson18.md).
+Uma observação para quem fala português: o japonês não faz a distinção entre "ser" e "estar". だ e です cobrem os dois na maioria dos casos: ネコです é "é um gato", mas 元気です é "estou bem" e 静かだ é "está silencioso". A diferença entre o permanente e o temporário, quando importa, vem do contexto ou de outras construções que veremos mais adiante. A exceção é o "estar" de lugar ("o gato está em casa"): para isso, o japonês usa outros verbos, いる e ある, que aprenderemos na [Lição 18](./Lesson18.md).
 
 Ao contrário do português, a palavra de estado de ser vai **depois** da palavra que você usa para descrever algo, e não antes. Veremos que isso vale para a maioria das palavras modificadoras do japonês: elas se aplicam à palavra à sua **esquerda**.
 
@@ -46,6 +46,6 @@ A forma de dicionário costuma ser chamada de presente ou de não passado. É im
 
 A forma simples e a forma passada normalmente correspondem ao presente e ao pretérito do português, mas não são usadas em todos os mesmos lugares. Apenas lembre que o português e o japonês frequentemente usam os tempos de maneiras muito diferentes. Por exemplo, o português tem um pretérito perfeito ("comi") e um imperfeito ("comia"), e o japonês não faz essa divisão com formas separadas.
 
-Em japonês, afirmações comuns sobre o futuro usam a forma simples na maior parte das vezes. É daí que vem o nome "não passado". (Em português acontece algo parecido na fala: "amanhã eu vou" ou até "amanhã eu vou lá", com o presente ou o "ir + verbo" no lugar do futuro do presente.)
+Em japonês, afirmações comuns sobre o futuro usam a forma simples na maior parte das vezes. É daí que vem o nome "não passado". (Em português acontece algo parecido na fala: dizemos "amanhã eu viajo", com o presente, ou "amanhã eu vou viajar", com "ir + infinitivo", em vez do futuro do presente "amanhã eu viajarei".)
 
 Às vezes a forma passada também pode ser usada para coisas já concluídas, como "já virou", mesmo que sejam hipotéticas e ainda não tenham acontecido. Você também pode ouvi-la chamada de "tempo completo" ou "forma completa".

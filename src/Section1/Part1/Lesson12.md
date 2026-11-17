@@ -27,7 +27,7 @@ Por favor, não coma.
 
 <pre>
 肉まんを<b>ください</b>
-Me dá um nikuman, por favor
+Um nikuman, por favor
 </pre>
 
 Vale notar que existem outras maneiras de dar ordens e comandos imperativos em japonês. A forma て(ください) é uma ordem bem fraca e bastante suave. Está mais perto de um pedido educado do que de um comando direto. 
