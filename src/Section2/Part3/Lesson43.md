@@ -47,7 +47,7 @@ Você acabou de achar meu nome meio feminino, né? (lit: "com jeito de mulher")
 
 Existem duas construções separadas do sufixo auxiliar そう.
 
-A primeira se liga ao radical ます de um verbo ou adjetivo e significa "parece que". É usada para descrever coisas a partir de uma impressão ou perspectiva subjetiva, muitas vezes por aparências físicas. そう transforma o que ele se liga em um adjetivo な.
+A primeira se liga ao radical ます de um verbo ou adjetivo e significa "parece que". É usada para descrever coisas a partir de uma impressão ou perspectiva subjetiva, muitas vezes por aparências físicas. そう transforma aquilo a que se liga em um adjetivo な.
 
 <pre>
 おいし<b>そう</b>なスープです。

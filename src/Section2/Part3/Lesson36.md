@@ -66,7 +66,7 @@ Essas partículas de lista também são comumente usadas juntas, principalmente 
 
 <pre>
 剣<b>や</b>斧<b>、</b>槍<b>、</b>弓<b>など、</b>様々な武器が置かれている。  
-Espadas, machados, lanças, arcos e outras armas variadas estavam expostos.
+Espadas, machados, lanças, arcos e outras armas variadas estavam expostas.
 </pre>
 
 Existe outra partícula de lista que às vezes passa despercebida: に. Esta partícula é usada para listar coisas que vêm juntas em um conjunto, ou que o falante está listando uma a uma, como uma cadeia de pensamentos ou uma lembrança ativa.

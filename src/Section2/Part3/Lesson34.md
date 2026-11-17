@@ -64,7 +64,7 @@ Aqui não tem <b>nada</b>
 Coisas que <b>todo mundo</b> sabe.
 
 いつ<b>も</b>そんなことを考えてるの？  
-Você <b>sempre</b> pensou nisso?
+Você fica <b>sempre</b> pensando nessas coisas?
 </pre>
 
 Observação: no caso de 誰も usado como sujeito em uma afirmação não negativa, o が não pode ser omitido, então vira 誰もが

@@ -54,7 +54,7 @@ Lá vou eu! (falando de si mesmo, para si mesmo)
 
 <pre>
 さっさと行こう<b>ぜ</b>
-Bora logo (e ir)
+Bora logo!
 </pre>
 
 A partícula final わ tem três usos principais:

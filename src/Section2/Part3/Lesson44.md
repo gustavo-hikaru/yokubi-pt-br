@@ -1,4 +1,4 @@
-# Erro com だめ, いけない, ならない e como dizer "ter que"
+# O que não pode: だめ, いけない, ならない e como dizer "ter que"
 
 だめ é uma palavra que significa algo como "não presta", "inútil" ou "não adianta". Pode ser usada para dizer que uma afirmação seria ruim, depois de conectar essa afirmação anterior com ては ou condicionais como たら etc.
 

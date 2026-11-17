@@ -20,7 +20,7 @@ Os advérbios com と são palavras que recebem と para virar advérbios.
 
 <pre>
 <b>自然と</b>殺す
-Matar <b>naturalmente/espontaneamente</b>
+Matar <b>naturalmente/espontaneamente/por natureza</b>
 
 <b>次々と</b>出てきます
 Estão aparecendo <b>um atrás do outro</b>.

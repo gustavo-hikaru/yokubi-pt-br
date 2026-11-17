@@ -67,7 +67,7 @@ Muitas vezes ele tem a nuance de que o evento marcado por うちに é limitado 
 
 <pre>
 蜘蛛がいない<b>うちに</b>救出するか
-Você vai resgatá-los <b>enquanto</b> as aranhas não estão?
+Você vai resgatá-los <b>enquanto</b> as aranhas não estão por perto?
 </pre>
 
 Isso costuma ser usado para dar recomendações ou sugestões como "antes que X aconteça, devemos fazer Y".

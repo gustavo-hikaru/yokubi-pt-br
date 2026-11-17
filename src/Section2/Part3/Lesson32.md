@@ -17,7 +17,7 @@ Por fim, chegamos ao な usado para indicar proibição. Ele se liga ao final de
 Fique longe! (Não venha!)
 </pre>
 
-Observação: a parte さい de なさい também costuma ser omitida. Você consegue distingui-la facilmente do な de proibição, porque ela se liga ao radical ます do verbo:
+Observação: a parte さい de なさい também costuma ser omitida. Essa forma curta (な) é fácil de distinguir do な de proibição, porque se liga ao radical ます do verbo:
 
 <pre>
 聞き<b>な</b>
